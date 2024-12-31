@@ -15,8 +15,8 @@ This project automates the generation of certificates from a Word template, conv
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone 
-    cd your-repo-folder
+    git clone https://github.com/dhananjayaaps/MLSA-Certificate-Generator
+    cd MLSA-Certificate-Generator
     ```
 2. Install the required Python packages:
     ```bash
